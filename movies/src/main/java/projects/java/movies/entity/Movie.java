@@ -1,4 +1,4 @@
-package projects.java.movies;
+package projects.java.movies.entity;
 
 import java.util.List;
 
